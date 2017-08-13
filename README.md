@@ -10,3 +10,4 @@ This is a plugin to provide ABAP syntax highlighting in Sublime Text 3. While th
 - [Jerry Wang's enhancements to that plugin](https://github.com/i042416/KnowlegeRepository/tree/master/ABAP/myCustom)
   - [Some more details](https://blogs.sap.com/2017/03/25/some-small-abap-tools-i-write-to-improve-daily-work-efficiency-or-just-for-fun/#comment-368777)
 - [Manual installation instructions for ST3](https://stackoverflow.com/questions/19096626/sublime-text-3-abap-syntax-highlighting-color-scheme)
+- [Lars Hvam's VSCode ABAP plugin](https://github.com/larshp/vscode-abap)
